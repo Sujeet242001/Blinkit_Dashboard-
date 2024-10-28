@@ -3,7 +3,7 @@
 The goal of this project is to analyze Blinkit’s sales data using an interactive Power BI dashboard. The dashboard provides insights into sales performance, customer ratings, item categories, outlet locations, and other key metrics to aid in business decision-making.
 
 # Dataset Used:
-A fictional dataset simulating Blinkit's grocery sales across various outlets and categories.
+<a href="https://github.com/Sujeet242001/Blinkit_Dashboard-/blob/main/BlinkIT%20Grocery%20Data.xlsx">Data Set</a>
 
 # Key Questions:
 What are the total and average sales across different outlet sizes and locations?
